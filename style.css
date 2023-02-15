@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(24, 26, 27);
+    font: 16px Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+  }
+  
+  .h1-size, .h2-size, .h3-size {
+    font-weight: bold;
+  }
+  
+  .h1-size.pos, .index-img {
+    margin-left: 20px;
+  }
+  
+  .h1-size {
+    font-size: 28px;
+  }
+  
+  .h2-size {
+    font-size: 24px;
+  }
+  
+  .h3-size {
+    font-size: 20px;
+  }
+  
+  .index-img {
+    height: auto;
+    width: 480px;
+    float: left;
+    margin-right: 40px;
+  }
+  
+  .img-prop {
+    height: auto;
+    width: 400px;
+  }
+  
+  .img-prop.special {
+    width: 280px;
+  }
+  
+  .index-list-pos {
+    list-style-position: inside;
+  }
+  
+  .text {
+    margin: 4px 0 0 4px;
+  }
+  
+  .index-list-pos .text {
+    margin-left: 0;
+    color: rgb(215, 169, 86);
+  }
+  
